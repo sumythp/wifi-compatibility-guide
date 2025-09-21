@@ -1,0 +1,1 @@
+# wifi-compatibility-guide
